@@ -8,6 +8,8 @@ sizing.
 This project is distributed under the MIT license. This is a paraphrasing of a
 [short summary](https://tldrlegal.com/license/mit-license).
 
+The project is mainly inspired by [this website](https://ashfieldmedcomms.com/).
+
 This license is a short, permissive software license. Basically, you can do
 whatever you want with this software, as long as you include the original
 copyright and license notice in any copy of this software/source.
